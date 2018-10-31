@@ -1,0 +1,22 @@
+.corps {
+    background-color: black;
+}
+body {
+    color: white;
+}
+
+h1 {
+    color: yellow;
+}
+
+.lien {
+    color: yellow;
+    border: 1.6px solid yellow;
+    margin: 15px 20px 10px 55px;
+    float: right;
+    height: 30px;
+    width: 130px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
